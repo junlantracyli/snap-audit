@@ -1,0 +1,17 @@
+# Environment & Secrets
+.env
+*.env
+client_secret.json
+token.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
